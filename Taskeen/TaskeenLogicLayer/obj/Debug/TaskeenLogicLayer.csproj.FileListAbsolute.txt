@@ -7,3 +7,12 @@ D:\Programmin Advice\Projects\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenLogicLa
 D:\Programmin Advice\Projects\Taskeen\TaskeenLogicLayer\bin\Debug\DataAccessTaskeen.dll
 D:\Programmin Advice\Projects\Taskeen\TaskeenLogicLayer\bin\Debug\DataAccessTaskeen.pdb
 D:\Programmin Advice\Projects\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenL.A0634FCC.Up2Date
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\bin\Debug\TaskeenLogicLayer.dll
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\bin\Debug\TaskeenLogicLayer.pdb
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\bin\Debug\DataAccessTaskeen.dll
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\bin\Debug\DataAccessTaskeen.pdb
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenLogicLayer.csproj.AssemblyReference.cache
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenLogicLayer.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenL.A0634FCC.Up2Date
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenLogicLayer.dll
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\TaskeenLogicLayer\obj\Debug\TaskeenLogicLayer.pdb

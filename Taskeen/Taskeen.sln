@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskeenDataAccessLayer", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskeenLogicLayer", "TaskeenLogicLayer\TaskeenLogicLayer.csproj", "{04B15B2B-5214-4C1B-9F94-34B816405212}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{00A86050-74F8-4643-AB65-D8A62FFF40AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{04B15B2B-5214-4C1B-9F94-34B816405212}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B15B2B-5214-4C1B-9F94-34B816405212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B15B2B-5214-4C1B-9F94-34B816405212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A86050-74F8-4643-AB65-D8A62FFF40AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A86050-74F8-4643-AB65-D8A62FFF40AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A86050-74F8-4643-AB65-D8A62FFF40AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A86050-74F8-4643-AB65-D8A62FFF40AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

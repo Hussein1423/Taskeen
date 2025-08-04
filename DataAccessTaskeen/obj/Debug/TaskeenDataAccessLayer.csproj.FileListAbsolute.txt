@@ -4,3 +4,9 @@ D:\Programmin Advice\Projects\DataAccessTaskeen\obj\Debug\TaskeenDataAccessLayer
 D:\Programmin Advice\Projects\DataAccessTaskeen\obj\Debug\TaskeenDataAccessLayer.csproj.CoreCompileInputs.cache
 D:\Programmin Advice\Projects\DataAccessTaskeen\obj\Debug\DataAccessTaskeen.dll
 D:\Programmin Advice\Projects\DataAccessTaskeen\obj\Debug\DataAccessTaskeen.pdb
+D:\Programmin Advice\Projects\Taskeen Project\DataAccessTaskeen\bin\Debug\DataAccessTaskeen.dll
+D:\Programmin Advice\Projects\Taskeen Project\DataAccessTaskeen\bin\Debug\DataAccessTaskeen.pdb
+D:\Programmin Advice\Projects\Taskeen Project\DataAccessTaskeen\obj\Debug\TaskeenDataAccessLayer.csproj.AssemblyReference.cache
+D:\Programmin Advice\Projects\Taskeen Project\DataAccessTaskeen\obj\Debug\TaskeenDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\Projects\Taskeen Project\DataAccessTaskeen\obj\Debug\DataAccessTaskeen.dll
+D:\Programmin Advice\Projects\Taskeen Project\DataAccessTaskeen\obj\Debug\DataAccessTaskeen.pdb

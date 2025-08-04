@@ -10,11 +10,11 @@ using TaskeenLogicLayer.Helpers;
 
 namespace TaskeenLogicLayer.Services
 {
-    public class AuthenticationService
+    public static class AuthenticationService
     {
-        public async Task<AuthResultDto> Login(string username, string password)
+        public static async Task<AuthResultDto> Login(string usernameOrEmail, string password)
         {
-            User user = await UserRepository.Instance.AuthenticateAsync(username, PasswordHasher.HashPassword(password));
+            User user = await UserRepository.Instance.AuthenticateAsync(usernameOrEmail, PasswordHasher.HashPassword(password));
 
             if (user == null)
                 return new AuthResultDto(false, "User not found or invalid password");
@@ -24,7 +24,7 @@ namespace TaskeenLogicLayer.Services
             return new AuthResultDto(true, "Login successful");
         }
 
-        public void Logout()
+        public static void Logout()
         {
             CurrentUserSession.Clear();
         }

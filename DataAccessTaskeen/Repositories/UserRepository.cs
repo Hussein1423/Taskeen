@@ -158,7 +158,7 @@ namespace TaskeenDataAccessLayer.Repositories
                 string sql = @"
             SELECT * FROM Users 
             WHERE (Username = @Input OR Email = @Input) 
-              AND Password = @Password";
+              AND PasswordHash = @Password";
 
                 using (SqlCommand cmd = new SqlCommand(sql, conn))
                 {
