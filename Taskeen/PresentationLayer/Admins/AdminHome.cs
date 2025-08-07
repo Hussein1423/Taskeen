@@ -24,14 +24,50 @@ namespace PresentationLayer.Admins
             childForm.Show();
         }
 
+        Dashboard dashboard = new Dashboard();
+        ManageMembers manageMembers = new ManageMembers();
+        ManageLaders manageLaders = new ManageLaders();
+        ManageTasks manageTasks = new ManageTasks();
+        MyTasks myTasks = new MyTasks();
+        Notifications notifications = new Notifications();
+
         public AdminHome()
         {
             InitializeComponent();
-            Dashboard dashboard = new Dashboard();
             OpenChildForm(dashboard);
 
         }
 
-      
+        private void dashboardToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(dashboard);
+        }
+
+        private void manageMemberToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(manageMembers);
+        }
+
+        private void manageLadderToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(manageLaders);
+        }
+
+        private void manageTasksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(manageTasks);
+        }
+
+        private void myTasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(myTasks);
+        }
+
+        private void notificationesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(notifications);
+        }
+
+       
     }
 }

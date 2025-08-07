@@ -17,3 +17,8 @@ D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\bin\Debu
 D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\bin\Debug\DataAccessTaskeen.pdb
 D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.AdminHome.resources
 D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.Dashboard.resources
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.ManageLaders.resources
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.ManageMembers.resources
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.ManageTasks.resources
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.MyTasks.resources
+D:\Programmin Advice\Projects\Taskeen Project\Taskeen\PresentationLayer\obj\Debug\PresentationLayer.Admins.Notifications.resources

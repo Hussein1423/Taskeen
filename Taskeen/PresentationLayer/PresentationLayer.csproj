@@ -63,6 +63,36 @@
     <Compile Include="Admins\Dashboard.Designer.cs">
       <DependentUpon>Dashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Admins\ManageLaders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins\ManageLaders.Designer.cs">
+      <DependentUpon>ManageLaders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admins\ManageMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins\ManageMembers.Designer.cs">
+      <DependentUpon>ManageMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admins\ManageTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins\ManageTasks.Designer.cs">
+      <DependentUpon>ManageTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admins\MyTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins\MyTasks.Designer.cs">
+      <DependentUpon>MyTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admins\Notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins\Notifications.Designer.cs">
+      <DependentUpon>Notifications.cs</DependentUpon>
+    </Compile>
     <Compile Include="Auth\Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,6 +124,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Admins\Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins\ManageLaders.resx">
+      <DependentUpon>ManageLaders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins\ManageMembers.resx">
+      <DependentUpon>ManageMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins\ManageTasks.resx">
+      <DependentUpon>ManageTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins\MyTasks.resx">
+      <DependentUpon>MyTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins\Notifications.resx">
+      <DependentUpon>Notifications.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Auth\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
